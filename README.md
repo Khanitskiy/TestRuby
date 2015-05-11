@@ -1,3 +1,3 @@
-# TestRubyGarage
+# TestRuby
 
-Помотреть можно на http://testrubygarage.sitescopy.ru/
+Помотреть можно на 
